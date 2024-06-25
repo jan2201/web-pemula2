@@ -8,5 +8,9 @@
 <body>
     <h1>selamat pagi</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, impedit.</p>
+    <ul>
+        <li>selamat malam</li>
+        <li>selamat tidur</li>
+    </ul>
 </body>
 </html>
